@@ -1,0 +1,22 @@
+.it,
+.not 
+{
+    font-size: 28px;
+    font-family: Helvetica Times New Roman sans-serif
+
+}
+
+.it
+{
+    color: white;
+    background-color: black;
+    text-weight: bold
+
+}
+
+.not
+{
+    color: black;
+    background-color: yellow;
+
+}
