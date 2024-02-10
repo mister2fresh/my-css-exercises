@@ -7,35 +7,29 @@ body {
 
 .card {
   width: 400px;
-  height: 207px;
   background: #fff;
-  margin: 16px;
+  margin: 16px auto;
+  padding: 8px;
 }
 
 
 .title {
   background: #e3f4ff;
-  margin: 8px;
-  margin-bottom: 0px;
+  margin-top: 0;
+  margin-bottom: 8px;
   font-size: 16px;
   padding: 8px;
-  display: inline-block;
-  height: 20px;
-  width: 368px;
 }
 
 .content {
   background: #e3f4ff;
-  margin: 8px;
+  margin-bottom: 8px;
   padding: 16px 8px;
-  margin-top: 8px;
-  font-size: 15px;
 }
 
 .button-container {
   background: #e3f4ff;
   text-align: center;
-  margin: 8px;
   padding: 8px;
 }
 
@@ -43,6 +37,6 @@ button {
   background: white;
   border: 1px solid #eee;
   display: block;
-  margin-left: 9em;
+  margin: 0 auto;
   padding: 8px 24px;
 }
