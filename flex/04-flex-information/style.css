@@ -20,18 +20,35 @@ img {
   font-size: 36px;
   font-weight: 900;
   display: flex;
-  padding: 32px;
   justify-content: center;
-  width: auto;
+  margin-bottom: 32px;
+  
 }
   
 
 .veg {
   display: flex;
-  padding: 52px;
-  
+  justify-content: center;
+  gap: 52px;
 }
 
+.text {
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+
+
+}
+
+.icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+  
+  
+}
 
 /* do not edit this footer */
 .footer {
